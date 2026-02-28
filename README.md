@@ -13,3 +13,9 @@
 *MENTOR*:NEELA SANTOSH
 
 **YOU HAVE TO ENTER DESCRIPTION OF YOUR TASK(AND IT SHOULD NOT BE LESS THAN 500 WORDS)
+
+*OUTPUT
+
+<img width="1349" height="660" alt="Image" src="https://github.com/user-attachments/assets/9722d844-9e5e-4fa1-b98a-ca5fbf71cb75" />
+
+<img width="1340" height="626" alt="Image" src="https://github.com/user-attachments/assets/39c5d357-6a7a-46a5-b320-bae128589202" />
